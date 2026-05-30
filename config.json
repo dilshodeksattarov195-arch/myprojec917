@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsarse",
+        "uuid": 2544675,
+        "checksum": "wyol0o"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
